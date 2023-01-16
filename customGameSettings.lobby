@@ -1,0 +1,16 @@
+{
+    "Lobby": {
+      "Allow Players Who Are In Queue": true,
+      "Map Rotation": "After A Game",
+      "Match Voice Chat": true,
+      "Return To Lobby": "Never"
+    },
+    "Heroes": {
+      "General": {
+        "Lúcio": {
+            "Movement Speed": 125,
+            "Movement Gravity": 80
+        }
+      }
+    }
+  }
