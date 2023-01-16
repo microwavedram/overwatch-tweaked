@@ -28,6 +28,46 @@
       "Wrecking Ball": {
         "Grappling Claw Cooldown Time": 0,
         "Grappling Claw Knockback Scalar": 200
+      },
+      "Bastion": {
+        "Ammunition Clip Size Scalar": 500
+      },
+      "Roadhog": {
+        "Chain Hook Cooldown Time": 0,
+        "Take A Breather Cooldown Time": 150
+      },
+      "Cassidy": {
+        "No Ammunition Requirement": true,
+        "Combat Roll Cooldown Time": 50
+      },
+      "Baptiste": {
+        "Infinite Ultimate Duration": true
+      },
+      "Widowmaker": {
+        "Receive Headshots Only": true,
+        "Damage Dealt": 500
+      },
+      "Brigitte": {
+        "Barrier Shield Cooldown Time": 0,
+        "Barrier Shield Recharge Rate": 300,
+        "Shield Bash Cooldown Time": 50,
+        "Whip Shot Cooldown Time": 25,
+        "Whip Shot Knockback Scalar": 200
+      },
+      "Mercy": {
+        "Guardian Angel Cooldown Time": 0,
+        "No Ammunition Requirement": true
+      },
+      "Zenyatta": {
+        "No Ammunition Requirement": true,
+        "Movement Speed": 125
+      },
+      "D.va": {
+        "Defense Matrix Maximum Time": 500,
+        "Defense Matrix Recharge Rate": 80,
+        "Call Mech Knockback Scalar": 400,
+        "Spawn Without Mech": true,
+        "Boosters Knockback Scalar": 200
       }
     }
   }

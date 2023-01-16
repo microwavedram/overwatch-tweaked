@@ -1,1 +1,11 @@
 import "customGameSettings.lobby";
+
+rule: "Fuck Moira"
+Event.OnDamageDealt
+{
+    define player = EventPlayer();
+
+    if (player.Hero() == Hero.Moira) {
+        Damage(player, player, EventDamage() * 2);
+    }
+}
